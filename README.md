@@ -6,7 +6,7 @@ The purpose of this analysis was to repeat the previously done school district a
 
 ## Results
 
-#### How was the district summary affected?
+### How was the district summary affected?
 <ul>
   <li>Average Math Score: remained the same at 78.9</li>
   <li>Average Reading Score: remained the same at 81.9</li>
@@ -18,7 +18,7 @@ The purpose of this analysis was to repeat the previously done school district a
 ![Original District Summary](https://user-images.githubusercontent.com/94088129/160019985-35a42c3c-4fb3-4169-b31c-578bc0a76b9c.png)
 ![District Summary W:O 9th graders](https://user-images.githubusercontent.com/94088129/160019999-fa50f5d0-055e-46d0-b256-e59b8f4f1ec0.png)
 
-#### How is the school summary affected?
+### How is the school summary affected?
 <ul>
   <li>Average Math Score: 83.42 to 83.35</li>
   <li>Average Reading Score: 83.85 to 83.90</li>
@@ -30,11 +30,11 @@ The purpose of this analysis was to repeat the previously done school district a
 ![THS with 9th graders](https://user-images.githubusercontent.com/94088129/160022541-6c9733b9-c84a-417a-9eca-9b21f7e60660.png)
 ![THS without 9th graders](https://user-images.githubusercontent.com/94088129/160022564-117ad706-dabe-4369-bb54-39063fb426af.png)
 
-#### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 Since performance relative to other schools is measured by the Percent Overall Passing and the replacement of the ninth grader's math and reading scores dropped Thomas High School's score by only .3%, Thomas High School remains second overall.
 
-#### How does replacing the ninth-grade scores affect the following: 
+### How does replacing the ninth-grade scores affect the following: 
 <ol>
   <li>Math and reading scores by grade: math scores decreased by .07% and reading scores increased by .05%</li>
   <li>Scores by school spending: no change</li>
